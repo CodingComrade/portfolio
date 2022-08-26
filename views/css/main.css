@@ -255,18 +255,6 @@ input, select, textarea {
 			width: 50%;
 		}
 
-		.row > .off-6 {
-			margin-left: 50%;
-		}
-
-		.row > .col-7 {
-			width: 58.33333%;
-		}
-
-		.row > .off-7 {
-			margin-left: 58.33333%;
-		}
-
 		.row > .col-8 {
 			width: 66.66667%;
 		}
