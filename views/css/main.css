@@ -133,14 +133,6 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 	}
 
-	em, i {
-		font-style: italic;
-	}
-
-	br.clear {
-		clear: both;
-	}
-
 	hr {
 		border: 0;
 		border-top: solid 1px #444;
