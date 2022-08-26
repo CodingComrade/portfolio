@@ -99,28 +99,6 @@ input, select, textarea {
 		color: #3e3e3e;
 	}
 
-	i, em {
-		font-style: italic;
-	}
-
-	sub {
-		position: relative;
-		top: 0.5em;
-		font-size: 0.8em;
-	}
-
-	sup {
-		position: relative;
-		top: -0.5em;
-		font-size: 0.8em;
-	}
-
-	blockquote {
-		border-left: solid 0.75em #eee;
-		padding: 1em 0 1em 1.5em;
-		font-style: italic;
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: #3e3e3e;
 		margin: 0 0 0.75em 0;
