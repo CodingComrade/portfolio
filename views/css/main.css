@@ -237,14 +237,6 @@ input, select, textarea {
 			box-sizing: border-box;
 		}
 
-		.row.gtr-uniform > * > :last-child {
-			margin-bottom: 0;
-		}
-
-		.row.aln-left {
-			justify-content: flex-start;
-		}
-
 		.row.aln-center {
 			justify-content: center;
 		}
